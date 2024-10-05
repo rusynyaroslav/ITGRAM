@@ -10,8 +10,8 @@
 <img src="https://github.com/rusynyaroslav/ITGRAM/blob/main/readme_image/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D1%96%D1%8F.jpg" alt="Авторизація" width="500" height="300">
 <p>Якщо студент вже зареєстрований - потрібно увести корпоративну пошту та пароль </p>
 
-<h2>Голона сторінка</h2>
-<img src="https://github.com/rusynyaroslav/ITGRAM/blob/main/readme_image/%D0%A1%D1%82%D1%96%D0%BD%D0%B0.jpg" alt="Реєстрація" width="500" height="300">
+<h2>Головна сторінка</h2>
+<img src="https://github.com/rusynyaroslav/ITGRAM/blob/main/readme_image/%D0%A1%D1%82%D1%96%D0%BD%D0%B0.jpg" alt="Головна сторінка" width="500" height="300">
 <p>На головній сторінці ми можемо бачити пости інших користувачів, лайкати їх, писати коментарі</p>
 
 <h2>Створення поста</h2>
@@ -27,5 +27,5 @@
 <p>Тут можна переглянути пости користувачів, на яких ви підписані</p>
 
 <h2>Рейтинг</h2>
-<img src="https://github.com/rusynyaroslav/ITGRAM/blob/main/readme_image/%D0%A0%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3.jpg" alt="Реєстрація" width="500" height="300">
+<img src="https://github.com/rusynyaroslav/ITGRAM/blob/main/readme_image/%D0%A0%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3.jpg" alt="Рейтинг" width="500" height="300">
 <p>На цій сторінці можна побачити список користувачів та відсортувати їх за кількістю підписників, кількістю лайків та кількістю коментарів під їхніми постами</p
