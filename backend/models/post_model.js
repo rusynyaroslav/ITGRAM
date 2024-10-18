@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 const { ObjectId } = mongoose.Schema.Types;
 
 const postSchema = new mongoose.Schema({
@@ -12,12 +12,12 @@ const postSchema = new mongoose.Schema({
   },
   image: {
     type: String,
-    default: "no image available",
+    default: 'no image available',
   },
   author: {
     type: ObjectId,
-    ref: "UserModel",
+    ref: 'UserModel',
   },
 });
 
-module.exports = mongoose.model("PostModel", postSchema);
+module.exports = mongoose.model('PostModel', postSchema);
